@@ -1,4 +1,10 @@
 🛡️ Hate Speech & Offensive Content Detector
+
+
+
+
+
+
 This project is a machine learning-based web and Chrome extension tool designed to detect hate speech, offensive language, and neutral content in real-time text inputs—especially useful on social platforms like WhatsApp Web, Telegram Web, and Instagram Web.
 
 It uses Natural Language Processing (NLP) and a trained Logistic Regression model to classify messages into one of the following categories:
