@@ -15,7 +15,15 @@ It uses Natural Language Processing (NLP) and a trained Logistic Regression mode
 
 💬 Neutral Content
 
+
+
+
+
 🚀 Key Features
+
+
+
+
 🧠 ML model trained on real-world labeled Twitter data
 
 ✨ Real-time classification of typed or received messages
@@ -27,6 +35,9 @@ It uses Natural Language Processing (NLP) and a trained Logistic Regression mode
 📊 Performance evaluation via classification report and confusion matrix
 
 💡 Easily extendable to other platforms
+
+
+
 
 🔍 Tech Stack
 Frontend: React.js (with GSAP animations)
